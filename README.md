@@ -13,6 +13,14 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
+## 💼 What I Can Offer  
+- **Backend Development**: Expertise in Java, Spring Boot, REST APIs, and microservices architecture.  
+- **Frontend Exploration**: Building interactive, user-friendly interfaces using modern frameworks.  
+- **DevOps Practices**: Streamlining deployment pipelines with Docker and containerized solutions.  
+- **Team Collaboration**: Thrives in agile environments and enjoys contributing to innovative projects.  
+
+---
+
 ✨ Empowering ideas through robust code and cutting-edge technology!
 
 <!---
