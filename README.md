@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💞️ **Open to Collaborate:** Excited to work on innovative **full-stack projects**, **cloud-based applications**, and **microservice-driven solutions**. Let's build 
         something impactful together!
 - 📫 **Reach Me At:** Feel free to connect with me via **[GitHub Issues](https://github.com/Arjunchaurasiya23)** or drop an email at **[arjunchaurasiya1254@gmail.com] 
-        (mailto:Arjunchaurasiya1254@gmail.com.com)**.
+        (mailto:Arjunchaurasiya1254@gmail.com)**.
 
 ---
 
