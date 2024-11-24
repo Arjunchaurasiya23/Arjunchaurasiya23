@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
+-   I am currently seeking a **Full-Stack Developer** role.
+
 - 👀 **Interests:** Passionate about building scalable and efficient software solutions using **Java technologies**, **Spring Boot**, **microservices architecture**, and 
        **Docker**. I also enjoy exploring full-stack development and modern tech stacks.
 - 🌱 **Currently Building On:** Strengthening my expertise in **backend systems**, enhancing my knowledge of **frontend frameworks** (like React or Angular), and aiming to 
